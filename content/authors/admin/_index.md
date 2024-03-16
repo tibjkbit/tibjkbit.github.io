@@ -67,17 +67,17 @@ skills:
       - name: Reading
         description: ''
         percent: 60
-        icon: reading
+        icon: book
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: painting
+      - name: Painting
         description: ''
         percent: 60
-        icon: painting
+        icon: paper
         icon_pack: fas
 
 # Social/Academic Networking
