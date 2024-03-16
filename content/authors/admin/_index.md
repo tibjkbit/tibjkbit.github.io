@@ -53,12 +53,12 @@ skills:
       - name: Julia
         description: ''
         percent: 100
-        icon: chart-line
+        icon: julia
         icon_pack: fas
       - name: R
         description: ''
         percent: 40
-        icon: database
+        icon: R
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
