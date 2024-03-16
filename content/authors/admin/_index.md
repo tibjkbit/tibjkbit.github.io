@@ -3,7 +3,7 @@
 title: 刘景康
 
 # Name pronunciation (optional)
-name_pronunciation: Liu Jingkang
+name_pronunciation: Liu Jing Kang
 
 # Full name (for SEO)
 first_name: Jing kang
@@ -25,7 +25,7 @@ organizations:
     url: https://sme.bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Econometrics, Statistics and Data Science.
 
 # Interests to show in About widget
 interests:
@@ -52,13 +52,13 @@ skills:
         icon_pack: fab
       - name: Julia
         description: ''
-        percent: 100
-        icon: julia
+        percent: 80
+        icon: code
         icon_pack: fas
       - name: R
         description: ''
-        percent: 40
-        icon: R
+        percent: 60
+        icon: data
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -77,7 +77,7 @@ skills:
       - name: Painting
         description: ''
         percent: 60
-        icon: paper
+        icon: draw
         icon_pack: fas
 
 # Social/Academic Networking
@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-''
+
 {style="text-align: justify;"}
